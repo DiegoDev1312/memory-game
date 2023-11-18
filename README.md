@@ -8,3 +8,5 @@ Feito junto ao bootcamp da DIO. Adicionei algumas melhorias ao decorrer do proje
 </ul>
 
 Feito utilizando JavaScript, CSS e HTML.
+
+Link para testar: <a href="https://diegodev1312.github.io/memory-game/">https://diegodev1312.github.io/memory-game/</a>
