@@ -23,7 +23,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 400px;
+    width: 600px;
     min-height: 400px;
     background-color: #8a2be2;
     border-radius: 6px;
@@ -157,6 +157,13 @@ body {
     margin-top: 40px;
 }
 
+
+@media (max-width: 625px) {
+    .container {
+        width: 400px;
+        min-height: 400px;
+    }
+}
 
 @media (max-width: 425px) {
     .container {
